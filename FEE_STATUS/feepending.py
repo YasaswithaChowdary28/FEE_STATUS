@@ -13,7 +13,7 @@ def send_mails(complete_data):
         from_email = "yasaswithachowdary28@gmail.com"
         to_email = data[1]
         subject = "Fee Update"
-        body = f"Dear {data[0]},\nYour daughter have Fee Pending\n So,Please make sure to clear it as soon as possible\n If Fee Pending we will make her stand outside of the class !"
+        body = f"Dear {data[0]},\nYou have Fee Pending\n So,Please make sure to clear it as soon as possible...!"
 
         msg = MIMEMultipart()
         msg['From'] = from_email    
