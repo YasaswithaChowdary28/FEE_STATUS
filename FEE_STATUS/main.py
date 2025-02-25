@@ -17,7 +17,7 @@ else:
 
 userdetails = {
     101 : ["Yasaswitha","yasaswithachowdary10@gmail.com","false"],
-    102 : ["Chalapathi Rao","chalapathirao88@gmail.com","false"],
+    102 : ["Nimmi","yasaswithanimmi03@gmail.com","true"],
     103 : ["Sandhya","bhagamsandhya11@gmail.com","false"],
     }
 print("Welcome Admin")
